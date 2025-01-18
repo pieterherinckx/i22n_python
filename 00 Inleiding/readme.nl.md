@@ -1,4 +1,4 @@
-Deze oefening werd gemaakt door Robbe Wulgaert en Dieter Vanderfaeillie. 
+Deze cursus en oefeningen werd gemaakt door Robbe Wulgaert en Dieter Vanderfaeillie, herwerkt door Pieter Herinckx. 
 
 Meer informatie: [www.robbewulgaert.be](www.robbewulgaert.be)
 
