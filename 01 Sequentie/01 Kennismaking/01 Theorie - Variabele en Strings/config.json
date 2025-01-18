@@ -9,11 +9,11 @@
     "pythia_judge": "output"
   },
   "labels": [
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Sequentie",
     "Strings",
-    "Theorie", 
+    "Theorie",
     "Video",
     "Sint-Lievenscollege Gent",
     "Robbe Wulgaert",
@@ -22,7 +22,7 @@
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "VT7DZRv_E_WWtuD2CH4xGBKRCe637CMxdIFR3R-TDq2AG_r38j9XWCKEjAwnMwAR",
+    "token": "rFPrDHFJHG5JWTg7kcc4YN_sGQdQRjwWf3UITE8UyMNtrwpMwQf5dG-MmHBuG5vf",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

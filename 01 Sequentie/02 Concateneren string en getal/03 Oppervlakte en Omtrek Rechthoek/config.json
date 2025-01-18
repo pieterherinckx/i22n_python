@@ -13,8 +13,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Sequentie",
     "Concateneren",
     "Sint-Lievenscollege Gent",
@@ -22,7 +22,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "7yVVtIsDQwWRun5EbzSwrrgWXKAy3-gy5__-Ys4gWVIAQ-Qqs6RK9XBXdUvT5p-f",
+    "token": "ipPsZHk967ZHHbp2bZB87Jc7rXYD2Q8b3VPPquTG8WGyfnB8QzV9Gv2twEz4h9Gz",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

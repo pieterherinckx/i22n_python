@@ -13,8 +13,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Selectie",
     "if, else en elif-functies",
     "AND en OR",
@@ -23,7 +23,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "e6jZg2F5fNmuGky3Edk6RRd6G2Y4RvWDFwIQJMAeGD_tKDstBkJ5ZEPrkRVNem6S",
+    "token": "7uWRU3xhEmtiX4vusTiBqCq8cxWXISxjW9x3suGIfcriRqi8Kd88NYTHQzuZZPty",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

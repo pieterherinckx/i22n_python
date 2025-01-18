@@ -10,19 +10,19 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Voorwaardelijke Herhaling",
     "While-lus",
-    "Theorie", 
-    "Video", 
+    "Theorie",
+    "Video",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
   ],
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "epQ8k2CrmU5QhWkaB94wynbUYqZdY6JiRB9nxU77wuU3HeVKv8auAv4keE-sZmVU",
+    "token": "t-EbSEpU3Y38De4zwA-BiF8-wQDHfg5zkb7CvMxgckd8z4T_wgyyBr89pHZJs4Ui",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -13,8 +13,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Selectie",
     "if, else en elif-functies",
     "Sint-Lievenscollege Gent",
@@ -22,7 +22,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "_qn4zdhygK-rWKCiwKVcVBbyhKJM2Y5FvVhEFzkPeWgpkad3HUbvXXhdcEa_THRd",
+    "token": "kmy67fuBqhkY22wX3sCXiR3emsbBw7GjIx3IDCg4NNid73vVyJis58_c4aFTeWW_",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

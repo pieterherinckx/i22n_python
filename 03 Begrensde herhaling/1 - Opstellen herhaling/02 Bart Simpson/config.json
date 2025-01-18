@@ -12,8 +12,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Begrensde Herhaling",
     "For-lus",
     "Sint-Lievenscollege Gent",
@@ -21,7 +21,7 @@
   ],
   "access": "public",
   "internals": {
-    "token": "tQJHrJgZ3zxgtdQ9MY7_Db2xQPIku2duX5XXaCkSiTXihJPaYGvxF963czzKWv9p",
+    "token": "b-8qUEQIIUPIgZkV8rBVrBG_c7QXe54aA6DtHy5uhZUAwDIieaPaMwTWbTbKkSRv",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

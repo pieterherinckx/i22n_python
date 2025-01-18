@@ -14,8 +14,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Voorwaardelijke Herhaling",
     "While-lus",
     "Evaluatie",
@@ -24,7 +24,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "5zfi9gR6CBUtwyDtCTIZEBZ2A9bCWJ9hmq5U39zHGzXazT7VfP9NYyhsVFcAJAP9",
+    "token": "zEaucJuGBGmjvdMweiiVXG3enWpyFE2qRytv-KE_ZkE-pb6_keIq6ZJRAtazF3pD",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

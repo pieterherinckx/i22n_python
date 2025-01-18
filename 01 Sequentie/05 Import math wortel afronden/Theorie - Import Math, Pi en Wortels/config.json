@@ -7,14 +7,14 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Sequentie",
     "import",
     "Math",
     "Pi",
     "Wortels",
-    "Video", 
+    "Video",
     "Theorie",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
@@ -22,7 +22,7 @@
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "gfnxUEZGsAJeCSECz9hpV-6Zui9Eq3QRBvETnMJasV6WQX2A4Sidgsvv5e92CtKV",
+    "token": "YB6_yy_MKkFFPAxqZkQEhtw735W_YY7VwVHSjS_vqPP-rKjcE_fAhiyrQwyQ7w5_",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

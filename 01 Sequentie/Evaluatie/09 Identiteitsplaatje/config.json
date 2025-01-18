@@ -10,8 +10,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Sequentie",
     "Evaluatie",
     "Concatenatie",
@@ -20,7 +20,7 @@
   ],
   "access": "public",
   "internals": {
-    "token": "D8UvcSsmqYwUSXdujg7h53Ed3ZvDICMc_fX_fcHiHizCQcVmGkHjiPwzMpvyMSNV",
+    "token": "HGGyqZbxdbP3tSvtimiI-XSqe_5g3RY3zjvyCQNrRQdx98-6enix4bwyxt5GwcKD",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

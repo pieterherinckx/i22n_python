@@ -10,8 +10,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Begrensde Herhaling",
     "For-lus",
     "Lijsten",
@@ -25,7 +25,7 @@
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "A2MW5MPu7pMMMUUMk97rAI-6xNykM9X8wCQyUdI6c5jABs2m3wrcyjDjTpMtGNDB",
+    "token": "yv7E3-NtwqPB2n5vRaNA4aXpqBrTbj_4YNMhDpEAtECFZMc3xFfm6-D5kK7fGXrS",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

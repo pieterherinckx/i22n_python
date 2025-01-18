@@ -12,8 +12,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Sequentie",
     "Datatypes",
     "Integers",
@@ -23,7 +23,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "QA_2KJgqFNMCT66pJUPJhFTgsakpW--xTSyx56YnvFVtSAMgR8uRNnGsmpaYIkGj",
+    "token": "dCYyeMjsEe2DSTnGg7HIX6EHy9nXm2y797xQzhjrR_G9aMGhJ5s-IDtRghtq9tw2",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

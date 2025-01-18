@@ -13,8 +13,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Begrensde Herhaling",
     "For-lus",
     "Fractaal",
@@ -23,7 +23,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "SXGWAbNHSh6YRhhnGKQ--IZetnfQTrEs4R67Q_v7tzfAqmeRZhY7NNcZncJJp8kf",
+    "token": "NP7kEIERkHzwIIUsSzBY4WAukwnUj6FdvjMkAxmHnCQcXpAK9M-KWiiWW6NFvzgG",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

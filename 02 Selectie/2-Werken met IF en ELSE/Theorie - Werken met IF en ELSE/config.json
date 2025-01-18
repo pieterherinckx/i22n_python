@@ -10,8 +10,8 @@
   },
   "labels": [
     "Robbe Wulgaert",
-    "Python", 
-    "Python in de Klas", 
+    "Python",
+    "Python in de Klas",
     "Selectie",
     "If-functie",
     "Else-functie",
@@ -19,12 +19,11 @@
     "Video",
     "Sint-Lievenscollege Gent",
     "Dieter Vanderfaeillie"
-
   ],
   "type": "content",
   "access": "public",
   "internals": {
-    "token": "UgeYQUYnQtMptUpCX5RxQ6mwWe4HhAVK_QfhxN9Q4s26pVhQS6ip6x4jW-HHBftr",
+    "token": "S62G3ijWkAuE4Kd3gJhbYG7MFnBT35bDwDA4STR9mauq7wtt4w6iFBwW_Cb6aG9V",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
