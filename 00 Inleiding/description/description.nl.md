@@ -6,14 +6,14 @@ Bekijk volgende video:
 </div>
 
 ## Algoritme
-**Algortimes** zijn overal. Voor bijna alles wat we doet, maken we gebruik van een algoritme. Denk hierbij aan:
+> Een **algoritme** is een stappenplan van een eindige reeks opdrachten die vanuit een gegeven begintoestand naar een beoogd doel leidt.
+
+Algortimes zijn overal. Voor bijna alles wat we doet, maken we gebruik van een algoritme. Denk hierbij aan:
 - een recept uit een kookboek volgen;
 - een LEGO set bouwen;
 - een IKEA kast in elkaar steken.
 
 Maar ook online bepalen algoritmes steeds meer ons dagelijks leven. Wat we te zien krijgen op ons homescreen of feed van Youtube, Netflix, Instagram, ... wordt allemaal bepaald door een algoritme.
-
-> Een **algoritme** is een stappenplan van een eindige reeks opdrachten die vanuit een gegeven begintoestand naar een beoogd doel leidt.
 
 ## Decompositie
 > **Decompositie** is het verdelen van een complex probleem in meerdere, kleinere deelproblemen.
