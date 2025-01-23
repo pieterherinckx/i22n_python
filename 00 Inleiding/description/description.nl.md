@@ -6,10 +6,25 @@ Bekijk volgende video:
 </div>
 
 ## Algoritme
-In het dagelijks leven komen we continu in aanraking met algoritmes. Denk aan:
-- een recept uit een kookboek
-- een LEGO set bouwen
-- een IKEA kast in elkaar steken
+**Algortimes** zijn overal. Voor bijna alles wat we doet, maken we gebruik van een algoritme. Denk hierbij aan:
+- een recept uit een kookboek volgen;
+- een LEGO set bouwen;
+- een IKEA kast in elkaar steken.
 
-  > Een algoritme is een stappenplan van een eindige reeks opdrachten die vanuit een gegeven begintoestand naar een beoogd doel leidt.
+Maar ook online bepalen algoritmes steeds meer ons dagelijks leven. Wat we te zien krijgen op ons homescreen of feed van Youtube, Netflix, Instagram, ... wordt allemaal bepaald door een algoritme.
+
+> Een **algoritme** is een stappenplan van een eindige reeks opdrachten die vanuit een gegeven begintoestand naar een beoogd doel leidt.
+
+## Decompositie
+> **Decompositie** is het verdelen van een complex probleem in meerdere, kleinere deelproblemen.
+
+Compositie is het plaatsen van verschillende onderdelen op een bepaalde manier waardoor het een geheel vormt. Decompositie is het omgekeerde van compositie waarbij elk deelprobleem
+- afzonderlijk is op te lossen;
+- een identificeerbare taak bereikt;
+- ongeveer dezelfde grootte heeft.
+
+## Abstractie
+> **Abstractie** is het weglaten van overbodige details om zo tot een algemenere oplossing te komen.
+
+Concreet is tastbaar, in de realtiteit bestaande. Abstract is het omgekeerde van concreet. Door het ontdoen van details (specifieke verschillen), kunnen we een oplossing vinden die bruikbaar is voor verchillende problemen.
 
