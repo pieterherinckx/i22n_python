@@ -28,3 +28,10 @@ Compositie is het plaatsen van verschillende onderdelen op een bepaalde manier 
 
 Concreet is tastbaar, in de realtiteit bestaande. Abstract is het omgekeerde van concreet. Door het ontdoen van details (specifieke verschillen), kunnen we een oplossing vinden die bruikbaar is voor verchillende problemen.
 
+## Patronen
+> **Patronen** herkennen zorgt voor een efficiëntere oplossing door de overeenkomsten te hergebruiken.
+
+Wanneer we complexe zaken ontleden door decompositie, vinden we vaak patronen terug. Je vindt ze ook terug in het dagelijkse leven. Tegels op de vloer, de wandeling naar school, een patroon in een kledingstuk, de blaadjes aan de boom of de voortplanting van konijnen … Hierdoor kunnen we repititieve stappen makkelijk laten uitvoeren door een computer.
+
+
+
